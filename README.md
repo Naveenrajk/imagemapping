@@ -1,5 +1,6 @@
 # Batch 01 - RI100! (JAVA FULL STACK)
-https://slaconsultantsnoida.in/wp_files/wp-content/uploads_noida/2018/11/Full-Stack-Java-Training-in-Noida.png
+![RI100](https://github.com/Naveenrajk/imagemapping/assets/65030317/ee53b860-5911-4b69-9803-04dd56379eab)
+
 
 ## 👨‍💻Project Details
 - TECHNOLOGY : Java, Angular, Spring, Hibernate, Spring Boot, etc.     
@@ -45,8 +46,8 @@ Swetha Sadhasivam
 | Spring Boot | Done |
 | Microservices | Done |
 
-## 🫂Support
+## **🤝🏻Contributors**
 
-<a href = "https://github.com/IBM-EPBL/IBM-Project-19000-1659691983/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=IBM-EPBL/IBM-Project-19000-1659691983"/>
+<a href="https://github.com/valanmca/2023_Java_Batch-1_Hands-On_Repository/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=valanmca/2023_Java_Batch-1_Hands-On_Repository" />
 </a>
